@@ -22,7 +22,7 @@
 13. **Encontre todas as instâncias onde: A categoria é 'Filme' e o tipo é 'Dramas' ou a categoria é 'Série de TV' e o tipo é 'TV Infantil'.**
 
 
-# Dicionario
+### Dicionario
 
 | Coluna       | Descrição                                                |
 |--------------|----------------------------------------------------------|
