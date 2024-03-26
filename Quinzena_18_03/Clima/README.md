@@ -31,3 +31,8 @@
 | Visibility_km     | Visibilidade em quilômetros              |
 | Press_kPa         | Pressão atmosférica em kilopascais       |
 | Weather           | Condição do tempo                        |
+
+
+### Fonte
+
+https://datasciencelovers.graphy.com/s/authenticate?url=/products/Dataset--Project-1---Weather-Data-Analysis-64d48ec74065076bdfbcc4db?dgps_s=ucpd&dgps_t=cp_u

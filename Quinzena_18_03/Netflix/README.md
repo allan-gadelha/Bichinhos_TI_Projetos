@@ -37,3 +37,8 @@
 | Duration     | Duração do show (por exemplo, número de temporadas para uma série de TV ou duração de um filme). |
 | Type         | Tipo do show (por exemplo, se é um filme ou uma série de TV). |
 | Description  | Descrição ou sinopse do show.                           |
+
+
+### Fonte
+
+https://datasciencelovers.graphy.com/products/Dataset--Project-8---Netflix-Data-Analysis-64d7bbb1fd6efd7c4587e23c?dgps_s=ucpd&dgps_t=cp_u

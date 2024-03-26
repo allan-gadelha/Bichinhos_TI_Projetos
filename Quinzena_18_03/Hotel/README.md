@@ -37,3 +37,8 @@ Nos últimos anos, o Resort Hotel (H1) e o City Hotel (H2) têm enfrentado altas
 | EstadiasFimDeSemana                     | Número de noites de fim de semana (sábado ou domingo) que o hóspede ficou ou reservou para ficar no hotel |
 | EstadiasDuranteSemana                   | Número de noites de semana (de segunda a sexta-feira) que o hóspede ficou ou reservou para ficar no hotel |
 | TotalDeSolicitaçõesEspeciais            | Número de solicitações especiais feitas pelo cliente.                                              |
+
+
+### Fonte
+
+https://www.sciencedirect.com/science/article/pii/S2352340918315191
